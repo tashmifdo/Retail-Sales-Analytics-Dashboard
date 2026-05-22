@@ -299,4 +299,3 @@ df.to_csv("dataset/cleaned_sales_data.csv", index=False)
 - Customer ID, Customer Name, Segment
 - Product ID, Product Name, Category, Sub-Category
 - Sales, Quantity, Discount, Profit
-"# Retail-Sales-Analytics-Dashboard" 
